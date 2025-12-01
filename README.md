@@ -11,12 +11,10 @@
 - [2. chart.js 알아보기](https://www.chartjs.org/)
 - [3. d3.js 알아보기](https://d3js.org/)
 
-## AI (ML/DL)
+## AI
 
 - [1. NLP 알아보기](https://github.com/ESG-EDU/Docs/tree/main/nlp)
-- [2. PyTorch 알아보기](https://pytorch.org/)
-- [3. TensorFlow 알아보기](https://www.tensorflow.org/?hl=ko)
-- [4. Scikit learn 알아보기](https://scikit-learn.org/stable/)
-- [5. HuggingFace 알아보기](https://github.com/ESG-EDU/Docs/tree/main/huggingface)
-- [6. LLM 알아보기](https://github.com/ESG-EDU/Docs/tree/main/llm)
-- [7. langchain 알아보기](https://github.com/ESG-EDU/Docs/tree/main/langchain)
+- [2. Machine Learning 알아보기](https://github.com/ESG-EDU/Docs/tree/main/ml)
+- [3. HuggingFace 알아보기](https://github.com/ESG-EDU/Docs/tree/main/huggingface)
+- [4. LLM 알아보기](https://github.com/ESG-EDU/Docs/tree/main/llm)
+- [5. langchain 알아보기](https://github.com/ESG-EDU/Docs/tree/main/langchain)
